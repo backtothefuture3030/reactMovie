@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/reactForBeginner/static/css/main.9a396f98.css",
-    "main.js": "/reactForBeginner/static/js/main.8e568ff8.js",
-    "static/media/Infinity-2.6s-321px.gif": "/reactForBeginner/static/media/Infinity-2.6s-321px.449aa9f916e7bac44ee9.gif",
-    "index.html": "/reactForBeginner/index.html",
-    "main.9a396f98.css.map": "/reactForBeginner/static/css/main.9a396f98.css.map",
-    "main.8e568ff8.js.map": "/reactForBeginner/static/js/main.8e568ff8.js.map"
+    "main.css": "/reactMovie/static/css/main.9a396f98.css",
+    "main.js": "/reactMovie/static/js/main.b3c828a7.js",
+    "static/media/Infinity-2.6s-321px.gif": "/reactMovie/static/media/Infinity-2.6s-321px.449aa9f916e7bac44ee9.gif",
+    "index.html": "/reactMovie/index.html",
+    "main.9a396f98.css.map": "/reactMovie/static/css/main.9a396f98.css.map",
+    "main.b3c828a7.js.map": "/reactMovie/static/js/main.b3c828a7.js.map"
   },
   "entrypoints": [
     "static/css/main.9a396f98.css",
-    "static/js/main.8e568ff8.js"
+    "static/js/main.b3c828a7.js"
   ]
 }
