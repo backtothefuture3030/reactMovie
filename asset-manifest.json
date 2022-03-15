@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactForBeginner/static/css/main.5f300257.css",
+    "main.js": "/reactForBeginner/static/js/main.777970d4.js",
+    "static/media/Infinity-2.6s-321px.gif": "/reactForBeginner/static/media/Infinity-2.6s-321px.449aa9f916e7bac44ee9.gif",
+    "index.html": "/reactForBeginner/index.html",
+    "main.5f300257.css.map": "/reactForBeginner/static/css/main.5f300257.css.map",
+    "main.777970d4.js.map": "/reactForBeginner/static/js/main.777970d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f300257.css",
+    "static/js/main.777970d4.js"
+  ]
+}
